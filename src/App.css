@@ -1,0 +1,5 @@
+.d_flex {
+  display: flex;
+  gap: 20px;
+  padding: 5px;
+}
